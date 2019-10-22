@@ -1,2 +1,2 @@
 # Bucles
-Ejercicios tema 2
+Ejercicios desde clase
